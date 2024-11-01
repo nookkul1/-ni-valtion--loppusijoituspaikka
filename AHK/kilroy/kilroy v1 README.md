@@ -1,5 +1,5 @@
 # kilroy v1
-How to use:
+## How to use:
   1. Download `kilroy v1.exe`
   2. Run `kilroy v1.exe`
   3. Click 'More info' and 'Run anyway'
