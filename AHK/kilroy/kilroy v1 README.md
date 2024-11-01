@@ -5,4 +5,7 @@ How to use:
   3. Click 'More info' and 'Run anyway'
   4. Wait 10 seconds
   5. Enjoy!
-  6. To close: right click the white 'H' on a green square and select 'Exit'
+  6. To close:  
+     • open hidden icons in the tray  
+     • right click the white 'H' on a green square  
+     • select 'Exit'
